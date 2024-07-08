@@ -8,7 +8,7 @@ class TextProcessor:
         self.word_frequency = {}
         self.words_Ham = {}
         self.words_Spam = {}
-        self.vocabulary = {}
+        self.vocabulary = {} 
         self.Delta = 0.5
         self.sizeOfHam = 0
         self.sizeOfSpam = 0
