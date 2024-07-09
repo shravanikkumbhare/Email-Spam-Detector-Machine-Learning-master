@@ -1,5 +1,5 @@
 # Spam-Detector
-A Python-based spam detector using the Naive Bayes approach.
+A Python-based spam detector using the Naive Bayes approach. 
 
 The spam detection process goes through a series of following steps:
 
