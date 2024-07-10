@@ -6,7 +6,7 @@ TRAIN_DOCUMENTS = "dataset/train/"
 TEST_DOCUMEMENTS = "dataset/test/"
 VOCABULARY_DOCUMENT = "results/model.txt"
 RESULT_DOCUMENT = "results/result.txt"
-
+ 
 class Console:
     def log(self, text):
         print(str(text)+"...")
