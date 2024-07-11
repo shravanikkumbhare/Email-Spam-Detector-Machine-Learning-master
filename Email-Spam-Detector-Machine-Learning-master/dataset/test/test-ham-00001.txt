@@ -1,7 +1,7 @@
 From fork-admin@xent.com  Mon Aug 12 11:09:56 2002
 Return-Path: <fork-admin@xent.com>
 Delivered-To: yyyy@localhost.netnoteinc.com
-Received: from localhost (localhost [127.0.0.1])
+Received: from localhost (localhost [127.0.0.1]) 
 	by phobos.labs.netnoteinc.com (Postfix) with ESMTP id DF99C44170
 	for <jm@localhost>; Mon, 12 Aug 2002 05:57:04 -0400 (EDT)
 Received: from phobos [127.0.0.1]
