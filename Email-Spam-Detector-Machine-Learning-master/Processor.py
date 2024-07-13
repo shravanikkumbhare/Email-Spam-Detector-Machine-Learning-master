@@ -1,7 +1,7 @@
 import re
 import os
 import math
-
+ 
 class TextProcessor:
  
     def __init__(self):
