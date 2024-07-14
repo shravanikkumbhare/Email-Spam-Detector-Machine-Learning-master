@@ -1,5 +1,5 @@
 from Processor import TextProcessor
-from Processor import FileProcessor
+from Processor import FileProcessor 
 from Model import NaiveBayesClassifier
 
 TRAIN_DOCUMENTS = "dataset/train/"
