@@ -7,7 +7,7 @@ The spam detection process goes through a series of following steps:
   * Preparation of Corpus.
   * Corpus Inspection.
   * Cleansing of Corpus.
-  * Tokenize the Corpus and count the word frequency. 
+  * Tokenize the Corpus and count the word frequency.  
   * Compute probabilities.
 
 **2. Naive Bayes Classifier Approach:**
