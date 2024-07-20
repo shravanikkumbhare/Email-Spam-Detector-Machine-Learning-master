@@ -6,7 +6,7 @@ WRONG = 'wrong'
 RIGHT = 'right' 
 
 '''
-Machine learning NaiveBayes classifier
+Machine learning NaiveBayes classifier 
 '''
 class NaiveBayesClassifier:
 
