@@ -1,4 +1,4 @@
-From fork-admin@xent.com  Mon Aug 12 11:10:05 2002
+From fork-admin@xent.com  Mon Aug 12 11:10:05 2002 
 Return-Path: <fork-admin@xent.com>
 Delivered-To: yyyy@localhost.netnoteinc.com
 Received: from localhost (localhost [127.0.0.1])
