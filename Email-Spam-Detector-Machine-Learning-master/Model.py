@@ -1,6 +1,6 @@
 import math
   
-SPAM = 'spam'
+SPAM = 'spam' 
 HAM = 'ham'  
 WRONG = 'wrong'  
 RIGHT = 'right' 
