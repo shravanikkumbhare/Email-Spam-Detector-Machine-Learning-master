@@ -3,7 +3,7 @@ import math
 SPAM = 'spam' 
 HAM = 'ham'  
 WRONG = 'wrong'  
-RIGHT = 'right' 
+RIGHT = 'right'  
 
 '''
 Machine learning NaiveBayes classifier 
