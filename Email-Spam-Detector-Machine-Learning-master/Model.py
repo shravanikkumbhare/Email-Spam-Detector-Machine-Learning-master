@@ -4,7 +4,7 @@ SPAM = 'spam'
 HAM = 'ham'  
 WRONG = 'wrong'   
 RIGHT = 'right'    
- 
+  
 ''' 
 Machine learning NaiveBayes classifier 
 '''
