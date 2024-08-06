@@ -9,7 +9,7 @@ Received: from phobos [127.0.0.1]
 	for jm@localhost (single-drop); Mon, 12 Aug 2002 10:57:04 +0100 (IST)
 Received: from xent.com ([64.161.22.236]) by dogma.slashnull.org
     (8.11.6/8.11.6) with ESMTP id g7BBanb32040 for <jm@jmason.org>;
-    Sun, 11 Aug 2002 12:36:49 +0100
+    Sun, 11 Aug 2002 12:36:49 +0100 
 Received: from lair.xent.com (localhost [127.0.0.1]) by xent.com (Postfix)
     with ESMTP id 46D33294167; Sun, 11 Aug 2002 04:33:08 -0700 (PDT)
 Delivered-To: fork@spamassassin.taint.org
