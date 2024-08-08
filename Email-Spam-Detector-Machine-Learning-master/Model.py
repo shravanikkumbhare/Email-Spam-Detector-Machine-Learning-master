@@ -13,7 +13,7 @@ class NaiveBayesClassifier:
     def __init__(self):
         self.PriorH = 0.0
         self.PriorS = 0.0
-        self.vocabulary = {}
+        self.vocabulary = {} 
         self.result = {}
         self.S_True_Positive = 0
         self.S_False_Negative = 0
