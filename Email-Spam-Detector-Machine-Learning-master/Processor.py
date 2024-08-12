@@ -4,7 +4,7 @@ import math
  
 class TextProcessor:
   
-    def __init__(self):
+    def __init__(self): 
         self.word_frequency = {}
         self.words_Ham = {}
         self.words_Spam = {}
