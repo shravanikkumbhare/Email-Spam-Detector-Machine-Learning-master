@@ -3,7 +3,7 @@ from Processor import FileProcessor
 from Model import NaiveBayesClassifier
  
 TRAIN_DOCUMENTS = "dataset/train/"
-TEST_DOCUMEMENTS = "dataset/test/"
+TEST_DOCUMEMENTS = "dataset/test/" 
 VOCABULARY_DOCUMENT = "results/model.txt"
 RESULT_DOCUMENT = "results/result.txt"
  
