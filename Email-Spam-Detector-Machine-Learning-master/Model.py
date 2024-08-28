@@ -1,7 +1,7 @@
 import math
    
 SPAM = 'spam'  
-HAM = 'ham'       
+HAM = 'ham'        
 WRONG = 'wrong'     
 RIGHT = 'right'       
       
