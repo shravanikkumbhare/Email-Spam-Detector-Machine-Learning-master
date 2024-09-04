@@ -2,7 +2,7 @@ import math
    
 SPAM = 'spam'  
 HAM = 'ham'        
-WRONG = 'wrong'      
+WRONG = 'wrong'       
 RIGHT = 'right'         
       
 '''  
