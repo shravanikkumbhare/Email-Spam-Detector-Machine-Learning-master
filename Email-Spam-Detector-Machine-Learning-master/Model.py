@@ -7,7 +7,7 @@ RIGHT = 'right'
        
 '''  
 Machine learning NaiveBayes classifier   
-'''
+''' 
 class NaiveBayesClassifier:
 
     def __init__(self):
