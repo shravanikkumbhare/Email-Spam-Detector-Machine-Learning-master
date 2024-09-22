@@ -6,7 +6,7 @@ class TextProcessor:
   
     def __init__(self): 
         self.word_frequency = {} 
-        self.words_Ham = {}
+        self.words_Ham = {} 
         self.words_Spam = {}
         self.vocabulary = {} 
         self.Delta = 0.5
