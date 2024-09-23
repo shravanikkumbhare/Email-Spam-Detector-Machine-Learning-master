@@ -1,7 +1,7 @@
 # Spam-Detector
 A Python-based spam detector using the Naive Bayes approach.
 
-The spam detection process goes through a series of following steps:
+The spam detection process goes through a series of following steps: 
 
 **1. Common Aspects of Text Mining:**
   * Preparation of Corpus.
