@@ -5,7 +5,7 @@ The spam detection process goes through a series of following steps:
 
 **1. Common Aspects of Text Mining:**
   * Preparation of Corpus.
-  * Corpus Inspection. 
+  * Corpus Inspection.  
   * Cleansing of Corpus.
   * Tokenize the Corpus and count the word frequency.   
   * Compute probabilities.
